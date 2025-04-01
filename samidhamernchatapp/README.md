@@ -49,5 +49,5 @@ Contributions are welcome! To contribute:
 5. Open a pull request
 
 ## Contact
-For any queries, reach out to me on samidhakilledar2608@gmail.com).
+For any queries, reach out to me on samidhakilledar2608@gmail.com .
 
