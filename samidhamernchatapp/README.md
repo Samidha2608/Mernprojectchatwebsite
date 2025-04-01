@@ -48,9 +48,6 @@ Contributions are welcome! To contribute:
 4. Push to the branch (`git push origin feature-branch`)
 5. Open a pull request
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
 ## Contact
-For any queries, reach out at [LinkedIn](https://www.linkedin.com/in/prakhartripathi1/).
+For any queries, reach out to me on samidhakilledar2608@gmail.com).
 
